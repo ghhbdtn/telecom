@@ -1,1 +1,1 @@
-"# telocom" 
+"# telecom" 
